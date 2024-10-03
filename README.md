@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a PhD candidate in Computer Science at the University of Florida, specializing in Software Security. My research focuses on leveraging Large Language Models (LLMs) for Automatic Program Repair. I have published work in leading security conferences, including USENIX Security, IEEE Symposium on Security and Privacy and ACSAC.
+I am a PhD candidate in Computer Science at the University of Florida, specializing in Software Security. My research focuses on leveraging Large Language Models (LLMs) for Automatic Program Detection and Repair. I have published work in leading security conferences, including USENIX Security, IEEE Symposium on Security and Privacy and ACSAC.
 
 <!--
 **Anurag-Swarnim-Yadav/Anurag-Swarnim-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
