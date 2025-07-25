@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Researcher at the intersection of Software Engineering and Machine Learning, with a focus on leveraging Large Language Models (LLMs) for Automatic Program Detection and Repair. My work has been published in premier security conferences, including USENIX Security, the IEEE Symposium on Security and Privacy, and ACSAC.
+Computer science researcher specializing in software security and machine learning, with a focus on building robust, real-world–ready systems for secure software development. Areas of expertise include data quality, evaluation methodology, and learning strategies for automated vulnerability detection and program repair. Published in premier security conferences, including USENIX Security, the IEEE Symposium on Security and Privacy, and ACSAC. Research contributions have directly influenced the security ML community, prompting formal updates to widely used vulnerability datasets.
 
 <!--
 **Anurag-Swarnim-Yadav/Anurag-Swarnim-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
